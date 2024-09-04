@@ -65,9 +65,8 @@ Here are some ideas to get you started:
 
 <!-- ## 😄 Cool Stats -->
 
-![Manikanta's GitHub stats](https://github-readme-stats.vercel.app/api?username=manikanta222010&show_icons=true&theme=dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta222010&theme=dark)
+
 
 <!-- <h3>Where to find me</h3> -->
 <!-- <p> -->
@@ -79,6 +78,6 @@ Here are some ideas to get you started:
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
 <a href="https://twitter.com/manikanta222010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta222010" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manikanta-yedla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/suyash-singh-65854326b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
 <a href="https://codepen.io/manikanta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manikanta222010" height="30" width="40" /></a>
 </p>
