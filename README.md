@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hey there <img src="https://slackmojis.com/emojis/32756-charmander_shiny/download" width="30"/></h1>
 
-<p>Welcome to my page! </br> I’m Suyash Singh, Final year Computer Science student at  <b>ICFAI Vellore Institute of Technology Vellore <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/></b>
+<p>Welcome to my page! </br> I’m Suyash Singh, Final year Computer Science student at  <b>Vellore Institute of Technology Vellore <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/></b>
 <br/>I am a Full stack developer with the right mix of Functional programming and expertise in Data Structures and Algorithms.</p>
 
 
@@ -53,10 +53,7 @@ Here are some ideas to get you started:
   <img alt="VS Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> 
 </p>
 
-<img alt="contribution" src="https://github.com/manikanta222010/manikanta222010/blob/output/github-contribution-grid-snake.svg" />
 
-<img align="right" aly="wp" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikanta222010&theme=dark&langs_count=6" width="300" />
-<img align="left" alt="wp" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="500" />
 
 
 
@@ -77,7 +74,6 @@ Here are some ideas to get you started:
 
 <h2 align="left">Connect with me ❤️</h2>
 <p align="left">
-<a href="https://twitter.com/manikanta222010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manikanta222010" height="30" width="40" /></a>
+
 <a href="www.linkedin.com/in/suyash-singh-65854326b"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanush-savadi-2161181b1" height="30" width="40" /></a>
-<a href="https://codepen.io/manikanta22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="manikanta222010" height="30" width="40" /></a>
-</p>
+
