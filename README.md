@@ -1,5 +1,4 @@
 <!--
-**manikanta222010/manikanta222010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1>Hey there <img src="https://slackmojis.com/emojis/32756-charmander_shiny/download" width="30"/></h1>
 
-<p>Welcome to my page! </br> I’m Manikanta Srinivas Yedla, Final year Computer Science student from  <b>ICFAI University, Hyderabad, Telangana <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/></b>
+<p>Welcome to my page! </br> I’m Suyash Singh, Final year Computer Science student at  <b>ICFAI Vellore Institute of Technology Vellore <img src="https://cdn-icons-png.flaticon.com/512/3909/3909444.png" width="13"/></b>
 <br/>I am a Full stack developer with the right mix of Functional programming and expertise in Data Structures and Algorithms.</p>
 
 
